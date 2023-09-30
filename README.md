@@ -22,7 +22,7 @@
 
 ---
 
-## 학습내용
+## 학습내용 (리덕스로 간단한 웹 어플리케이션 만들기)
 ### 상태 모델링
 - 데이터를 담는 모델 부분과 화면을 보여주는 뷰를 분리하여 생각한다.
 
@@ -193,3 +193,9 @@ export default function(state = null, action) {     // es6문법: state 가 unde
     return state;
 }
 ```
+
+## 학습 내용 (리덕스 중급과정 - 미들웨어)
+- 날씨 어플리케이션
+<img width="839" alt="image" src="https://github.com/gyureal/ReduxSimpleStarter/assets/78974381/9c70be90-8b69-4a94-a6be-32c7ddcdb004">
+
+
