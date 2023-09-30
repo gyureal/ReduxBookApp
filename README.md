@@ -1,26 +1,23 @@
-# ReduxSimpleStarter
+# 개요
+> Redux Simple Starter 학습 내용을 기록하는 레포지토리입니다.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+## 학습목표
+- 컴포넌트 기반 프론트엔드 프레임워크 사용에 있어 상태관리도구의 필요성
+- Redux를 사용한 React 어플리케이션 상태관리
 
-### Getting Started
 
-There are two methods for getting started with this repo.
+## 알고 있는 지식
+- State는 컴포넌트의 상태를 저장한다.
+- State가 변경되면 컴포넌트가 rerender 된다.
+- State를 넘겨주려면 props 를 사용한다.
+- props는 이벤트, 데이터 등을 담을  수 있다.
+- 상태관리 라이브러리를 사용하면 props를 사용할 필요가 없다.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+## 의문점
+- 어떤 문제를 해결하려고 사용하는가?
+- 사용방법은?
+- 장점은 무엇인가?
+- 단점은 무엇인가?
+- 상태관리도구를 사용하면 props를 사용할 필요가 없나?
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
-# ReduxSimpleStarter
+## 배운 내용
