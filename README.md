@@ -1,5 +1,5 @@
 # 개요
-> [Udemy - Modern React And Redux](https://www.udemy.com/react-redux/)를 학습한 내용을 기록하는 레포입니다.
+> [Udemy - Modern React And Redux](https://www.udemy.com/react-redux/)의 BookList 예제를 학습한 내용을 기록하는 레포지토리입니다.
 
 ## 학습목표
 - 컴포넌트 기반 프론트엔드 프레임워크 사용에 있어 상태관리도구의 필요성
